@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "blakejs": "^1.1.0",
-    "tweetnacl": "^1.0.1"
+    "tweetnacl": "^1.0.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.0",
